@@ -1,0 +1,29 @@
+body{
+    background-image: linear-gradient(to top, #05FAE9, #7351D9, #D038ED);
+}
+
+
+section{
+    background-color: #e9fcfa;
+    font: 10pt  Arial;
+    border-radius: 10px;
+    padding: 50px;
+    width: 70%;
+    margin: auto;
+    box-shadow: 3px 3px 10px rgb(88, 59, 88);
+    line-height: 20px;
+    text-align: justify;
+}
+
+h1{
+    font-size: 20pt;
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+}
+
+ul{
+    font-size: 11pt;
+}
